@@ -64,4 +64,3 @@ Puedes ver mis contribuciones en GitHub y algunos proyectos en los que he trabaj
 
 - 📧 Correo Electrónico: miguelmasmeladev@email.com
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/miguel-angel-lopez-masmela-88b9b3263/)
-- 👨‍💻 Portafolio: [Portafolio](https://masmeladev-portfolio.netlify.app/)
